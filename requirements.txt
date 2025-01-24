@@ -7,3 +7,4 @@ pypdf
 bs4
 arxiv
 pymupdf
+wikipedia
